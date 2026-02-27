@@ -1,4 +1,4 @@
-![Architecture Diagram](architecture/architecture-diagram/AWS.drawiopng)
+![Architecture Diagram](architecture/architecture-diagram.png/AWS.drawio.png)
 # AWS Event-Driven Image Processing Architecture
 
 ## Project Overview
