@@ -11,7 +11,7 @@ This project follows an event-driven pattern with decoupled services.
 The introduction of Amazon SQS improves reliability, buffering and failure isolation.
 ---
 
-## ⚖️ Architectural Trade-offs
+## Architectural Trade-offs
 
 While this architecture improves scalability and fault tolerance, it introduces:
 
